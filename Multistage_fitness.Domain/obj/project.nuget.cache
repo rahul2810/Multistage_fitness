@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQEDHutzGLFMbHPImUyZk/F+Th1pkMWavgQwk4AN/lwyWAb8CuzMkCml9kiPvkVs9vm0hZO0jnW2J3+WaL7h/g==",
+  "dgSpecHash": "pGkLkyixkcW3hAV4Q8X6nos6Bve6UMUEd08fKlMEDHOV4V159p7EFuaGvCGCcLrwjVc6UB0uTVdK2ZA3AFeIBw==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Github\\YoYo-Web-App\\YoYo-Web-App.Domain\\YoYo-Web-App.Domain.csproj",
+  "projectFilePath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahul R\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rahul R\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

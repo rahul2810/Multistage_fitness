@@ -6399,23 +6399,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rahul\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Rahul R\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
+      "projectUniqueName": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
       "projectName": "Multistage_fitness.Api",
-      "projectPath": "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
-      "packagesPath": "C:\\Users\\Rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Api\\obj\\",
+      "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
+      "packagesPath": "C:\\Users\\Rahul R\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rahul R\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6428,11 +6424,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj": {
-              "projectPath": "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj"
+            "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj": {
+              "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj"
             },
-            "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj": {
-              "projectPath": "D:\\Github Clone\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj"
+            "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj": {
+              "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj"
             }
           }
         }
@@ -6473,7 +6469,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
