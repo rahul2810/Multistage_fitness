@@ -5,7 +5,7 @@ Multistage fitness test is a web application that can enable MSFT/Beep test/PACE
  
 The current release is an MVP that can support all basic features required to run the tests.
 
-![alt text](https://github.com/rahul2810/Multistage_fitness/blob/main/beep_test_screenshot.png?raw=true)
+![Multistage fitness test screenshot](https://github.com/rahul2810/Multistage_fitness/blob/main/beep_test_screenshot.png?raw=true)
 
 ### Multistage fitness Test (MSFT) / Beep test / PACER test
 The multi-stage fitness test (MSFT), also known as the beep test, PACER (Progressive Aerobic Cardiovascular Endurance Run), PACER test, or the 20 m Shuttle Run Test (20 m SRT), is a running test used to estimate an athlete's aerobic capacity (VO2 max). The test requires participants to run 20 meters back and forth across a marked track keeping time with beeps. Every minute or so, the next level commences: the time between beeps gets shorter; participants must run faster. If a participant fails to reach the relevant marker in time, they are cautioned. A second caution ends the test for that runner. The number of shuttles completed successfully is recorded as the score of that runner. The score is recorded in Level.Shuttles format (e.g. 9.5).
