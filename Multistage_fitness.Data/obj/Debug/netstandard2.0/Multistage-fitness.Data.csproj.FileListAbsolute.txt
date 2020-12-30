@@ -1,0 +1,36 @@
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.deps.json
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.dll
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.pdb
+C:\Users\Rahul\source\repos\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csproj.CopyComplete
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.deps.json
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.dll
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.pdb
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csprojAssemblyReference.cache
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfo.cs
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csproj.CopyComplete
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+C:\Users\Rahul\source\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.deps.json
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.dll
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\bin\Debug\netstandard2.0\YoYo-Web-App.Domain.pdb
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csprojAssemblyReference.cache
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfoInputs.cache
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.AssemblyInfo.cs
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csproj.CoreCompileInputs.cache
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.csproj.CopyComplete
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.dll
+D:\Work\Github\YoYo-Web-App\YoYo-Web-App.Data\obj\Debug\netstandard2.0\YoYo-Web-App.Data.pdb
+D:\Github Clone\Multistage-fitness\Multistage-fitness.Data\obj\Debug\netstandard2.0\Multistage-fitness.Data.dll
+D:\Github Clone\Multistage-fitness\Multistage-fitness.Data\obj\Debug\netstandard2.0\Multistage-fitness.Data.pdb

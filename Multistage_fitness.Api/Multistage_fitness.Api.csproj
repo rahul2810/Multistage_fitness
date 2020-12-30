@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Multistage_fitness.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Multistage_fitness.Data\Multistage_fitness.Data.csproj" />
+    <ProjectReference Include="..\Multistage_fitness.Domain\Multistage_fitness.Domain.csproj" />
+    <ProjectReference Include="..\Multistage_fitness.Domain\Multistage_fitness.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

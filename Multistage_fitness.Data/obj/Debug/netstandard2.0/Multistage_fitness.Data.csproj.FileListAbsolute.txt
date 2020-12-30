@@ -1,0 +1,11 @@
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\bin\Debug\netstandard2.0\Multistage_fitness.Data.deps.json
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\bin\Debug\netstandard2.0\Multistage_fitness.Data.dll
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\bin\Debug\netstandard2.0\Multistage_fitness.Data.pdb
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\bin\Debug\netstandard2.0\Multistage_fitness.Domain.dll
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\bin\Debug\netstandard2.0\Multistage_fitness.Domain.pdb
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.csprojAssemblyReference.cache
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.AssemblyInfoInputs.cache
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.AssemblyInfo.cs
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.csproj.CopyComplete
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.dll
+D:\Github Clone\Multistage_fitness\Multistage_fitness.Data\obj\Debug\netstandard2.0\Multistage_fitness.Data.pdb

@@ -1,0 +1,120 @@
+
+<div class="container testappwrapper">
+    
+<!-- Holds the Title of app -->
+    <div class="row">
+      <div class="col mt-5">
+          <div class="d-flex justify-content-center"> 
+            <h1>Multistage Fitness Test</h1>
+          </div>
+      </div>
+  
+    </div>
+       <!-- Holds Play Button -->
+    <div class="row">
+        <div class="col  mt-3">
+            <div class="d-flex justify-content-center"> 
+      
+
+
+<div *ngIf="startbutton">
+  <button (click)="ClickStart()" type="button" class="btn btn-light btn-circle">
+                    
+    <i class="fas fa-play play"></i>
+  
+</button>
+
+</div>
+<div *ngIf="progress">
+  <circle-progress
+  [percent]="100"
+  [radius]="70"
+  [outerStrokeWidth]="10"
+  title = "Level {{SpeedLevel}} "
+  [titleFontSize] = "25"
+  [titleColor] = "'#577599'"
+  subtitle = "Shuttle {{ShuttleNo}} |  {{Speed}} km/hr"
+  [subtitleFontSize] = "13"
+  [subtitleFontWeight] = "500"
+  [subtitleColor] = "'#444444'"
+  [showUnits] = "false"
+  [innerStrokeWidth]="0"
+  [outerStrokeColor]="'#e9847b'"
+  [innerStrokeColor]="'#C7E596'"
+  [animation]="true"
+  animationDuration="{{duration}}"
+></circle-progress>
+</div>
+   
+              </div>
+        </div>
+       
+      </div>
+ <!-- Holds 3 Column Metric Titles -->
+ <div class="container">
+    <div class="row mt-5 text-center metricstitle">
+        
+        <div  class="col border-right border-secondary">
+          <h6>Next Shuttle</h6>
+        </div>
+        <div class="col border-right border-secondary">
+          <h6>Total Time</h6>
+        </div>
+        <div class="col ">
+          <h6>Total Distance</h6>
+         
+        </div>
+      </div>
+       <!-- Holds 3 Column Metrics <Active> -->
+      <div class="row text-center metricsfeed">
+        
+        <div  class="col border-right border-secondary">
+        <p>{{NextShuttle}} s</p>  
+        </div>
+        <div class="col border-right border-secondary">
+          <p>{{TotalTime}} s</p> 
+        </div>
+        <div class="col ">
+          <p>{{TotalDistance}} m</p> 
+        </div>
+      </div>
+<!-- Holds track & participants -->
+      <div class="row mt-5 track border-bottom border-secondary">
+        
+        <h6>Track</h6>
+      </div>
+    
+      <div class="row mt-2 border-bottom border-secondary"> 
+        <div class="col table-wrapper-scroll-y my-custom-scrollbar pl-0 pr-0 ">
+          
+          <table class="table table-hover participant-table">
+      
+            <tbody>
+              <tr *ngFor="let d of UserData;let i = index">
+                
+                <th scope="row">{{i+1}}.</th>
+                <td><p>{{d.athleteName}}</p></td>
+                <td ><button *ngIf="d.result == '' && !startbutton"type="button" class="btn btn-info btn-round-sm" (click)="IsWarned(i)" [disabled]="d.isWarn == 'Warned'">{{d.isWarn}}</button></td>
+                <td *ngIf="d.result == '' && !startbutton"><button type="button" class="btn btn-danger btn-round-sm" (click)="GetResult(i)">{{d.isStop}}</button></td>
+                
+                <td *ngIf="d.result != ''">
+                  <div>
+                  <select class="dropdownclass">
+                    <option *ngFor="let result of PossibleResults" [ngValue]="result" [selected]="result==d.result">
+                      {{result}}
+                    </option>
+                  </select>
+                </div>
+                </td>
+                
+              </tr> 
+                         
+            </tbody>
+          </table>
+
+        </div>
+        </div>
+      </div>
+      </div>
+      
+  
