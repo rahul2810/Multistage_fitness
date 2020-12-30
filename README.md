@@ -1,9 +1,13 @@
 # Multistage fitness Test - Web App
 ## About
 ### Multistage fitness App
-Multistage fitness test is a web application that can enable MSFT/Beep test/PACER test. The web app is built on .Net Core & Angular 10.
+Multistage fitness test is a web application that can enable MSFT/Beep test/PACER test. 
+
+Built using .Net Core & Angular 10. :sparkles:
  
-The current release is an MVP that can support all basic features required to run the tests.
+The current version is an MVP that can support all basic features required to run the tests. 
+
+Future versions may include support for customizable participants list, levels and persitent storage of data on a database.
 
 ![Multistage fitness test screenshot](https://github.com/rahul2810/Multistage_fitness/blob/main/beep_test_screenshot.png?raw=true)
 
