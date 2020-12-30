@@ -7,7 +7,7 @@ Built using .NET Core & Angular 10. :sparkles:
  
 The current version is a MVP that can support all basic features required to run the tests. 
 
-Future versions may include support for customizable participants list, levels and persitent storage of data on a database.
+Future versions may include support for customizing participants list, levels and persitent storage of data on a database.
 
 ![Multistage fitness test screenshot](https://github.com/rahul2810/Multistage_fitness/blob/main/beep_test_screenshot.png?raw=true)
 
