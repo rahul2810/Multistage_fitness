@@ -1,194 +1,292 @@
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.exe
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.deps.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.runtimeconfig.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.runtimeconfig.dev.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.pdb
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Data.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Domain.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Data.pdb
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Domain.pdb
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.csprojAssemblyReference.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\staticwebassets\Multistage_fitness.Api.StaticWebAssets.Manifest.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\staticwebassets\Multistage_fitness.Api.StaticWebAssets.xml
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.MvcApplicationPartsAssemblyInfo.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.AssemblyInfoInputs.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.AssemblyInfo.cs
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.RazorTargetAssemblyInfo.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.csproj.CopyComplete
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.exe
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.deps.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.runtimeconfig.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.runtimeconfig.dev.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Api.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Data.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Domain.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Data.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\bin\Debug\netcoreapp3.1\Multistage_fitness.Domain.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.csprojAssemblyReference.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.AssemblyInfoInputs.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.AssemblyInfo.cs
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.csproj.CoreCompileInputs.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.MvcApplicationPartsAssemblyInfo.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.RazorTargetAssemblyInfo.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.csproj.CopyComplete
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\staticwebassets\Multistage_fitness.Api.StaticWebAssets.Manifest.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\staticwebassets\Multistage_fitness.Api.StaticWebAssets.xml
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Api\obj\Debug\netcoreapp3.1\Multistage_fitness.Api.genruntimeconfig.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.exe
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.deps.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.dev.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.pdb
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.pdb
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csprojAssemblyReference.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/staticwebassets/Multistage_fitness.Api.StaticWebAssets.Manifest.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/staticwebassets/Multistage_fitness.Api.StaticWebAssets.xml
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.MvcApplicationPartsAssemblyInfo.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfoInputs.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfo.cs
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.RazorTargetAssemblyInfo.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.CopyComplete
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.exe
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.deps.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.dev.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csprojAssemblyReference.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfoInputs.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfo.cs
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.CoreCompileInputs.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.MvcApplicationPartsAssemblyInfo.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.RazorTargetAssemblyInfo.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.CopyComplete
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/staticwebassets/Multistage_fitness.Api.StaticWebAssets.Manifest.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/staticwebassets/Multistage_fitness.Api.StaticWebAssets.xml
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.genruntimeconfig.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.StaticWebAssets.xml
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.deps.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.runtimeconfig.dev.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Data.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/bin/Debug/netcoreapp3.1/Multistage_fitness.Domain.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.AssemblyReference.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfoInputs.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.AssemblyInfo.cs
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.CoreCompileInputs.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/staticwebassets/Multistage_fitness.Api.StaticWebAssets.Manifest.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.RazorTargetAssemblyInfo.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.csproj.CopyComplete
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/Debug/netcoreapp3.1/Multistage_fitness.Api.genruntimeconfig.cache

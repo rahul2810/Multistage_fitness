@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AMfxUff1vu69Bk13IrjXs00qBYOSale5FK1F6XURNNc3c333kMxXGUKvSRYYj8YLkl7fqWYMs/pF5tqAe+B7aw==",
+  "dgSpecHash": "sgPr+QS9jV/5EY2En/OrhWlKdICdixERBh6Bn6UoZND4RdC+B+GUUjwK1vSzmxbb1G5EF9EF8N7x8QI1CA7Zeg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj",
+  "projectFilePath": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Data/Multistage_fitness.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rahul R\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Rahul R\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Rahul R\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "/Users/rahulramesh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rahulramesh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/rahulramesh/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

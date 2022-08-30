@@ -6399,36 +6399,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rahul R\\.nuget\\packages\\": {}
+    "/Users/rahulramesh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
+      "projectUniqueName": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/Multistage_fitness.Api.csproj",
       "projectName": "Multistage_fitness.Api",
-      "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\Multistage_fitness.Api.csproj",
-      "packagesPath": "C:\\Users\\Rahul R\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Api\\obj\\",
+      "projectPath": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/Multistage_fitness.Api.csproj",
+      "packagesPath": "/Users/rahulramesh/.nuget/packages/",
+      "outputPath": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rahul R\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/rahulramesh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj": {
-              "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Data\\Multistage_fitness.Data.csproj"
+            "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Data/Multistage_fitness.Data.csproj": {
+              "projectPath": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Data/Multistage_fitness.Data.csproj"
             },
-            "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj": {
-              "projectPath": "D:\\Work\\Github\\Multistage_fitness\\Multistage_fitness.Domain\\Multistage_fitness.Domain.csproj"
+            "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/Multistage_fitness.Domain.csproj": {
+              "projectPath": "/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/Multistage_fitness.Domain.csproj"
             }
           }
         }
@@ -6441,6 +6440,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Cors": {
             "target": "Package",
@@ -6457,10 +6457,25 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[3.1.28, 3.1.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6469,7 +6484,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

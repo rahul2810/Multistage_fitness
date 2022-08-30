@@ -1,17 +1,27 @@
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.deps.json
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.pdb
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.csprojAssemblyReference.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.AssemblyInfoInputs.cache
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.AssemblyInfo.cs
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.dll
-D:\Github Clone\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.deps.json
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\bin\Debug\netstandard2.0\Multistage_fitness.Domain.pdb
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.csprojAssemblyReference.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.AssemblyInfoInputs.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.AssemblyInfo.cs
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.csproj.CoreCompileInputs.cache
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.dll
-D:\Work\Github\Multistage_fitness\Multistage_fitness.Domain\obj\Debug\netstandard2.0\Multistage_fitness.Domain.pdb
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.deps.json
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.csprojAssemblyReference.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfoInputs.cache
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfo.cs
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+D:/Github Clone/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.deps.json
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.csprojAssemblyReference.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfoInputs.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfo.cs
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.csproj.CoreCompileInputs.cache
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+D:/Work/Github/Multistage_fitness/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.deps.json
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/bin/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.csproj.AssemblyReference.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfoInputs.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.AssemblyInfo.cs
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.csproj.CoreCompileInputs.cache
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.dll
+/Users/rahulramesh/Documents/GitHub/ConnectedPE/Multistage_fitness.Domain/obj/Debug/netstandard2.0/Multistage_fitness.Domain.pdb
